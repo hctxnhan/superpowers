@@ -1,13 +1,13 @@
 {
-  "name": "superpowers",
+  "name": "hctxnhan/superpowers",
   "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
-  "version": "4.3.0",
+  "version": "1.0.0",
   "author": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Nhan Hoang",
+    "email": "hctxnhan@gmail.com"
   },
-  "homepage": "https://github.com/obra/superpowers",
-  "repository": "https://github.com/obra/superpowers",
+  "homepage": "https://github.com/hctxnhan/superpowers",
+  "repository": "https://github.com/hctxnhan/superpowers",
   "license": "MIT",
   "keywords": ["skills", "tdd", "debugging", "collaboration", "best-practices", "workflows"]
 }
